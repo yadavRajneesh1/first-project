@@ -1,2 +1,2 @@
 # first-project
-dummy
+Disease Prediction Machine Learning Project
